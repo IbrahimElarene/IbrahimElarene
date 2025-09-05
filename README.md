@@ -59,3 +59,33 @@ Here are some ideas to get you started:
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm)&nbsp;
 ![Clion](https://img.shields.io/badge/-Clion-05122A?style=flat&logo=Clion)&nbsp;
 
+### 🛠 Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+
+**Frameworks & Tools**  
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Database](https://img.shields.io/badge/-Database-05122A?style=flat)
+
+**IDEs & Editors**  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion)
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,flutter,mysql,git,github,androidstudio,vscode,pycharm,clion" />
+</p>
+
+
