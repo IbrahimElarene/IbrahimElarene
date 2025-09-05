@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I'm constantly learning new technologies to improve my skills.
 - 🎯 Experience with: **C++, Java, Dart, Python**
 - 🎯 Strong in: **Data Structures & Algorithms**
+-  All of my projects are available at **[My Repository](https://github.com/IbrahimElarene?tab=repositories)**.
 
 ---
 
