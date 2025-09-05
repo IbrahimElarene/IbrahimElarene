@@ -42,54 +42,14 @@ Here are some ideas to get you started:
 </a>
 
 
-### 🛠 &nbsp;Tech Stack
-- 💻 &nbsp;
-![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=563D7C)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![Data Base](https://img.shields.io/badge/-Data%20Base-05122A?style=flat&logo=Data-Base&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm)&nbsp;
-![Clion](https://img.shields.io/badge/-Clion-05122A?style=flat&logo=Clion)&nbsp;
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
 
-### 🛠 Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-
-**Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Database](https://img.shields.io/badge/-Database-05122A?style=flat)
-
-**IDEs & Editors**  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
-![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion)
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,flutter,mysql,git,github,androidstudio,vscode,pycharm,clion" />
-</p>
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,mysql,git,github,vscode,androidstudio,cpp,python,pycharm,clion" />
-</p>
-
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
