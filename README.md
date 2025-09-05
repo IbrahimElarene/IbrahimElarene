@@ -88,4 +88,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,flutter,mysql,git,github,androidstudio,vscode,pycharm,clion" />
 </p>
 
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter,dart,mysql,git,github,vscode,androidstudio,cpp,python,pycharm,clion" />
+</p>
 
