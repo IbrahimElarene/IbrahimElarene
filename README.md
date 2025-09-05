@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/ibrahim-elareney/" target="_blank">
-  <img src="https://img.shields.io/badge/-Ibrahim%20Elareney-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linked%20In-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:elareneibrahim@gmail.com">
   <img src="https://img.shields.io/badge/-Ibrahim%20Elareney-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
